@@ -13,7 +13,7 @@ addFriend.addEventListener("click",function(){
         addFriend.innerHTML ="Request sent"
         removeFriend.innerHTML = "Remove Request"
         console.log("Hii")
-        check = 1;
+        check  = 1;
     }
 })
 
